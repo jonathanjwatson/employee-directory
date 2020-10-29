@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Navbar/Navbar.css"],"names":[],"mappings":"AAAA,kBACE,kCACF","file":"main.decc4d3c.chunk.css","sourcesContent":["#navbar-chocolate {\n  background-color: #b94c09!important;\n}\n"]}
