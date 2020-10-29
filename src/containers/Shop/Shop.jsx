@@ -9,7 +9,7 @@ class Shop extends Component {
   componentDidMount() {
     axios
       .get(
-        "http://cors-anywhere.herokuapp.com/https://hub.dummyapis.com/products?noofRecords=10&idStarts=1001&currency=usd"
+        "https://cors-anywhere.herokuapp.com/https://hub.dummyapis.com/products?noofRecords=10&idStarts=1001&currency=usd"
       )
       .then((response) => {
         console.log(response.data);
